@@ -1,0 +1,25 @@
+/* body {
+	margin: 20px 20px 20px;
+	background-color: rgb(215, 219, 239);
+}
+
+
+.red-color {
+	color: red;
+}
+
+.add-review-container {
+	display: flex;
+	flex-direction: column;
+	margin-top: 30px;
+	gap: 30px;
+}
+
+.add-new-product-container {
+	margin-top: 20px;
+} */
+
+
+.hidden {
+	display: none;
+}
